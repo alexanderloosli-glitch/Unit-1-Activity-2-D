@@ -14,10 +14,11 @@ func main () {
     fmt.Println("alexander loosli")
 
     //string literal text 
-    fmt.Println("\nDone")
     fmt.Println("alexander loosli")
     fmt.Println("NBE3CR english")
     fmt.Println("TCJ3C1-1 wood working")
     fmt.Println("OCS3UV computer science")
     fmt.Println("MBFF3CR math")
+		
+		fmt.Println("\nDone")
 }
